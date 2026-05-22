@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Researching global industry-standard engineering practices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/willian-ushina](https://github.com/willian-ushina)
-
 - 📝 I regularly write articles on [Research on LLMs in Computer Science Education & PRISMA 2020](Research on LLMs in Computer Science Education & PRISMA 2020)
 
 - 💬 Ask me about **clean code, software security, electronic systems, and professional image editing workflows**
