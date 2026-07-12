@@ -23,12 +23,12 @@ nombre    : Willian Ushiña
 rol       : Ingeniero en Computación · Consultor Técnico Senior
 ubicacion : Tulcán, Ecuador
 institución: UPEC — Universidad Politécnica Estatal del Carchi
-enfoque   : Clean Code · Arquitecturas Escalables · Seguridad · DB Empresariales
+
 ```
 
-Soy un apasionado de la **Ingeniería en Computación**, enfocado en desarrollar software bajo estándares globales de calidad. Mi enfoque técnico se centra en construir **arquitecturas escalables**, aplicar **Clean Code**, garantizar la seguridad de los sistemas y optimizar **bases de datos empresariales**.
+Soy un apasionado de la **Ingeniería en Computación**
 
-Participo activamente en investigación académica sobre el impacto de la **Inteligencia Artificial** en la educación técnica y colidero iniciativas de formación tecnológica para las nuevas generaciones.
+Participo activamente en investigación académica sobre el impacto de la **Inteligencia Artificial** 
 
 ---
 
