@@ -43,54 +43,7 @@ Participo activamente en investigación académica sobre el impacto de la **Inte
 
 ---
 
-## 🛠️ Stack Tecnológico
 
-<div align="center">
-
-### Frontend & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Bases de Datos
-![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Toad](https://img.shields.io/badge/Toad_for_Oracle-005C84?style=for-the-badge&logo=databricks&logoColor=white)
-
-### ⚙️ Infraestructura & DevOps
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📐 Docs-as-Code
-![Mermaid](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-FBBA00?style=for-the-badge&logoColor=black)
-
-</div>
-
----
-
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=willian-ushina&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=0080ff&text_color=7aa8cc&ring_color=00f5ff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-ushina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7aa8cc" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=willian-ushina&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=0080ff&currStreakLabel=00f5ff&sideLabels=7aa8cc" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=willian-ushina&theme=react-dark&bg_color=0d1117&color=00f5ff&line=0080ff&point=00f5ff&area=true&hide_border=true" />
-
-</div>
-
----
 
 ## 🏆 Logros GitHub
 
